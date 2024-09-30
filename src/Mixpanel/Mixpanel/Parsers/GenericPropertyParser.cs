@@ -12,8 +12,7 @@ namespace Mixpanel.Parsers
                 rawValue is bool ||
                 NumberParser.IsNumber(rawValue) ||
                 rawValue is Guid ||
-                rawValue is TimeSpan ||
-                rawValue is Dictionary<string, object>)
+                rawValue is TimeSpan)
             {
                 return ValueParseResult.CreateSuccess(rawValue);
             }
