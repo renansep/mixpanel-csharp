@@ -4,10 +4,10 @@
     <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PreserveCompilationContext>false</PreserveCompilationContext>
-    <AssemblyVersion>6.0.0.0</AssemblyVersion>
-    <FileVersion>6.0.0.0</FileVersion>
+    <AssemblyVersion>6.1.0.0</AssemblyVersion>
+    <FileVersion>6.1.0.0</FileVersion>
     <Product>Mixpanel C#</Product>
-    <Version>6.0.0</Version>
+    <Version>6.1.0</Version>
     <Authors>Aleksandr Ivanov</Authors>
     <PackageId>mixpanel-csharp</PackageId>
     <Copyright>Copyright © Aleksandr Ivanov 2022</Copyright>
